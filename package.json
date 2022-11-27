@@ -22,7 +22,7 @@
     "web3",
     "blockchain"
   ],
-  "author": "Alta Web3 Labs <sonofmosiah.eth>",
+  "author": "SonOfMosiah <sonofmosiah.eth>",
   "license": "MIT",
   "devDependencies": {
     "@graphprotocol/graph-cli": "^0.33.0",
